@@ -1,6 +1,9 @@
-# test_flutter
+# Infinite name generator
 
 A new Flutter project.
+
+# Screenshots
+<img width="465" alt="Screenshot 2019-07-05 at 13 45 25" src="https://user-images.githubusercontent.com/4223130/60723333-46198b00-9f2b-11e9-95a5-f39a1b092b2a.png">
 
 ## Getting Started
 
